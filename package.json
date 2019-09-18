@@ -1,0 +1,24 @@
+{
+  "name": "@juntoz/str-bounds",
+  "version": "1.0.0",
+  "description": "Utility to add or remove a character from the start or end of a string. Useful to build a url, query, etc.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Juntoz/str-bounds.git"
+  },
+  "keywords": [
+    "juntoz",
+    "url",
+    "util"
+  ],
+  "author": "Juntoz.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Juntoz/str-bounds/issues"
+  },
+  "homepage": "https://github.com/Juntoz/str-bounds#readme"
+}
